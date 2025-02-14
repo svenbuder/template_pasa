@@ -1617,7 +1617,7 @@
 \def\cup@jnl@pas{
   \def\cup@journal@name{Publications of the Astronomical Society of Australia}
   \cup@layout@largetwo
-  % \definecolor{structure@color}{RGB}{0,32,135}
+  \definecolor{structure@color}{RGB}{0,32,135}
   \patchcmd{\@maketitle}
     {{\volumefont\cup@vol}, }{}{}{}
   % \renewcommand{\cup@copyright@notice}
