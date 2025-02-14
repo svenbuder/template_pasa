@@ -2,13 +2,13 @@
 
 This template is an adjusted version of the template provided by the Journal here: https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/
 
-## Authors
-
-Sven Buder (ANU & ASTRO 3D, sven.buder@anu.edu.au)
-
 ## How do I use it?
 
 I like to keep papers and analysis scripts online to be able to share code and text with others. That means I have my data (data/), my code (*.ipynb) and the figures (figures/*.png or figures/*.pdf) that it produces in the same repository as my manuscript (*.tex). The combination of GitHub and Overleaf allows you to write your analysis code locally, your manuscript online and easily keep everything synchronised.
+
+<p align="center">
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_1.png" width="75%"/>
+</p>
 
 ### Create GitHub and Overleaf accounts
 
@@ -28,7 +28,21 @@ Keep in mind that for a research paper, you want to also publish your code (it i
 
 The last step of setting your project up is to import the repository from GitHub into Overleaf. To do that, click on *New Project* -> *Import from GitHub* and find the right repository.
 
+<p align="center">
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_2.png" width="75%"/>
+</p>
+
+Now you can write your manuscript with your collaborators in Overleaf and upload your code into the same repository for others to be able to reproduce your results.
+
+<p align="center">
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_3.png" width="75%"/>
+</p>
+
 Good luck with your research.
+
+## Authors
+
+Sven Buder (ANU & ASTRO 3D, sven.buder@anu.edu.au)
 
 ## License
 
