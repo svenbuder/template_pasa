@@ -46,6 +46,10 @@ Now you can write your manuscript with your collaborators in Overleaf and upload
 
 Good luck with your research.
 
+<p align="center">
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_5.png" width="75%"/>
+</p>
+
 ## Authors
 
 Sven Buder (ANU & ASTRO 3D, sven.buder@anu.edu.au)
