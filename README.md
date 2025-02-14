@@ -16,7 +16,13 @@ Before you interact with this template, I suggest to sign up to [GitHub](https:/
 
 ### Create a new GitHub repository for your research project based on this template
 
-You can then copy this template as a new GitHub repository into your space by clicking onto the green button "Use this template" -> "Create new repository" and give it a descriptive name. If you do not want to share your work with the world yet, make sure to mark it as "Private" and not "Public".
+You can then copy this template as a new GitHub repository into your space by clicking onto the green button "Use this template" -> "Create new repository" and give it a descriptive name.
+
+<p align="center">
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_2.png" width="25%"/>
+</p>
+
+If you do not want to share your work with the world yet, make sure to mark it as "Private" and not "Public".
 
 ### Clone your new repository onto your local (super-)computer
 
@@ -29,13 +35,13 @@ Keep in mind that for a research paper, you want to also publish your code (it i
 The last step of setting your project up is to import the repository from GitHub into Overleaf. To do that, click on *New Project* -> *Import from GitHub* and find the right repository.
 
 <p align="center">
-  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_2.png" width="75%"/>
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_3.png" width="25%"/>
 </p>
 
 Now you can write your manuscript with your collaborators in Overleaf and upload your code into the same repository for others to be able to reproduce your results.
 
 <p align="center">
-  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_3.png" width="75%"/>
+  <img src="https://github.com/svenbuder/journal_template_figures/blob/main/template_figures_4.png" width="75%"/>
 </p>
 
 Good luck with your research.
